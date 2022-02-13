@@ -20,7 +20,7 @@
 		"del": "^6.0.0",
 		"escalade": "^3.0.2",
 		"escape-string-regexp": "^4.0.0",
-		"globby": "^11.0.0",
+		"globby": "^12.2.0",
 		"prompts": "^2.4.0",
 		"sade": "^1.7.3",
 		"strip-ansi": "^6.0.0",
